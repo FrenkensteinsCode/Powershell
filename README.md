@@ -1,7 +1,8 @@
 # Powershell
-Powershell scripts which make my everyday life easier 
+Powershell and Bash scripts which make my everyday life easier 
 
 ## W10Backup.ps1
+* Powershell-script
 * Backup designated folders/files to a location of your choice (e.g. external drives/NAS/cloud etc.)
 * Mail-notification on success/failure
 * Timestamps
